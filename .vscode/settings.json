@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder:api-ecommerce}/app/test.db",
+            "driver": "SQLite",
+            "name": "brasilprev",
+            "previewLimit": 50
+        }
+    ]
+}
