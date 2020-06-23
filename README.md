@@ -16,6 +16,10 @@ Esse projeto trás as funções básicas do e-commerce.
  3. Instale as dependências
  
  `(venv)$ pip install -r requirements.txt`
+ 
+ 4. Execute as migrations do projeto
+ 
+ `(venv)$ flask db upgrade`
 
 ## Teste
 
