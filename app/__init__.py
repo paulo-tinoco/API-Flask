@@ -5,7 +5,6 @@ from flask.json import jsonify
 from flask_migrate import Migrate
 from app.exceptions import *
 from app.models import db
-from app.views.v1 import v1_users, v1_products
 
 def create_app():
 
